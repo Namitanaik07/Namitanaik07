@@ -6,5 +6,4 @@
 -😄 Pronouns: She/Her
 -⚡ Fun fact: I’m a creative video editor & graphic designer, blending logic with creativity in my work!
 
-Java Enthusiast | Leadership-driven | Hackathon lover | CSE at MITE
 
