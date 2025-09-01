@@ -1,1 +1,74 @@
-<h1 align="center">Namita Naik</h1><h3 align="center">Crafting beautiful and functional digital experiences.</h3><div align="center"><a href="https://github.com/namitanaik07"><img src="https://www.google.com/search?q=https://github-profile-summary-cards.vercel.app/api/cards/profile-details%3Fusername%3Dnamitanaik07%26theme%3Dnord_dark" alt="Namita's GitHub Stats" /></a></div>About Me🔭 I'm a passionate fullstack developer currently working on a Smart Parking System. You can check it out here: web-based-parking-management-system-🌱 I'm expanding my skills with Angular, Node.js, and advanced Java concepts.🤝 I'm open to collaborations on Full-Stack Web Development projects.💬 You can ask me about React, Vue, and GSAP.📫 Let's connect! You can reach me at namitaanaik07@gmail.com.My GitHub Stats<div align="center"><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dnamitanaik07%26theme%3Dnord_dark%26hide_border%3Dfalse%26include_all_commits%3Dtrue%26count_private%3Dtrue" alt="Namita's GitHub Stats" /><img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dnamitanaik07%26theme%3Dnord_dark" alt="Namita's GitHub Streak" /><img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dnamitanaik07%26theme%3Dnord_dark%26hide_border%3Dfalse%26layout%3Dcompact" alt="Namita's Top Languages" /></div>Languages and Tools<p align="center"><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a><a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a></p>Connect with Me<p align="center"><a href="https://www.linkedin.com/in/namita-naik-b154a2293/" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-%25230077B5.svg%3F%26style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="Namita Naik on LinkedIn" /></a><a href="https://www.hackerrank.com/@namitaanaik07" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/HackerRank-2EC866%3Fstyle%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite" alt="Namita Naik on HackerRank" /></a><a href="https://www.google.com/search?q=https://leetcode.com/namita_naik_07" target="_blank"><img src="https://www.google.com/search?q=https://img.shields.io/badge/LeetCode-000000%3Fstyle%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3Dwhite" alt="Namita Naik on LeetCode" /></a></p><p align="center"><img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Dnamitanaik07%26label%3DProfile%2520views%26color%3D0e75b4%26style%3Dflat" alt="Namita Naik" /></p>
+<!-- Profile Banner -->
+<img src="https://i.imgur.com/8MupZHY.gif" width="100%" alt="Welcome Banner" />
+
+<h1 align="center">Hi 👋, I'm Namita Naik</h1>
+<h3 align="center">✨ Fullstack Developer | Tech Explorer | AI Enthusiast ✨</h3>
+
+---
+
+## 🚀 About Me  
+- 🔭 Currently working on: [Smart Parking System](https://github.com/Namitanaik07/web-based-parking-management-system-)  
+- 🌱 Learning: **Angular, Node.js, and advanced Java concepts**  
+- 🤝 Open to collaborate on: **Full-Stack Web Apps & AI Projects**  
+- 💬 Ask me about: **React, Vue, GSAP, and creative web design**  
+- 🎯 Fun fact: *I turn coffee ☕ into clean code.*  
+- 📫 Reach me at: **namitaanaik07@gmail.com**  
+
+---
+
+## 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/namita-naik-b154a2293/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/namitaanaik07"><img src="https://img.shields.io/badge/-Hackerrank-darkgreen?logo=hackerrank&logoColor=white" /></a>
+  <a href="https://leetcode.com/namita_naik_07"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white" /></a>
+  <a href="mailto:namitaanaik07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,js,html,css,react,nodejs,express,mongodb,mysql,angular,flutter,figma,gcp,opencv" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Activity  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=namitanaik07&theme=radical&hide_border=true" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namitanaik07&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitanaik07&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🎨 Animated Dev Section  
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Animation" />
+</p>
+
+---
+
+## ⚡ Fun Widgets  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=namitanaik07&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namitanaik07&theme=radical" alt="Profile Summary" />
+</p>
+
+---
+
+## ✨ Visitor Count  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=namitanaik07&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
+
+---
