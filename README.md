@@ -1,8 +1,5 @@
-
-<!-- Video Banner -->
-<video src="Generating_Video_From_GIF.mp4" width="100%" autoplay loop muted playsinline>
-  <p>Your browser does not support video playback.</p>
-</video>
+<!-- Banner -->
+<img src="Generating_Video_From_GIF.gif" width="100%" alt="Welcome Banner" />
 
 <h1 align="center">Hi 👋, I'm Namita Naik</h1>
 <h3 align="center">✨ Fullstack Developer | Tech Explorer | AI Enthusiast ✨</h3>
