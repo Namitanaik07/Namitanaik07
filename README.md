@@ -6,13 +6,19 @@
 
 ---
 
-## 🚀 About Me  
-- 🔭 Currently working on: [Smart Parking System](https://github.com/Namitanaik07/web-based-parking-management-system-)  
-- 🌱 Learning: **Angular, Node.js, and advanced Java concepts**  
-- 🤝 Open to collaborate on: **Full-Stack Web Apps & AI Projects**  
-- 💬 Ask me about: **React, Vue, GSAP, and creative web design**  
-- 🎯 Fun fact: *I turn coffee ☕ into clean code.*  
-- 📫 Reach me at: **namitaanaik07@gmail.com**  
+🚀 About Me
+
+Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
+
+🌱 Currently learning: Tailwind CSS, Three.js, React.js, and AI-powered Web Apps
+
+🤝 Open to collaborate on: Full-Stack Web Development, Creative UI/UX, and AI Projects
+
+💬 Ask me about: React, Vue, GSAP, Semantic Search, and interactive web design
+
+🎯 Fun fact: I turn coffee ☕ into clean, dynamic code.
+
+📫 Reach me at: namitanaik07@gmail.com
 
 ---
 
