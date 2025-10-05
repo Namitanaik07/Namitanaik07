@@ -34,7 +34,7 @@ Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
 
 ## 🛠️ Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nodejs,express,mongodb,mysql,flutter,figma,gcp,opencv" />
+  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nodejs,express,mongodb,mysql,flutter,figma,gcp,opencv,powerbi,tableau" />
 </p>
 
 ---
