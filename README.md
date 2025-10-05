@@ -54,14 +54,13 @@ Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
 
 ---
 
-## 🎨 Animated Dev Section  
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Animation" />
 </p>
 
 ---
 
-## ⚡ Fun Widgets  
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=namitanaik07&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
