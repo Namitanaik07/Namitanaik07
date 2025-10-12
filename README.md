@@ -65,9 +65,9 @@ Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
   <img src="https://github-profile-trophy.vercel.app/?username=namitanaik07&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namitanaik07&theme=radical" alt="Profile Summary" />
-</p>
+</p> -->
 
 ---
 
