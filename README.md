@@ -18,7 +18,7 @@ Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
 
 🎯 Fun fact: I turn coffee ☕ into clean, dynamic code.
 
-📫 Reach me at: namitanaik07@gmail.com
+📫 Reach me at: namitaanaik07@gmail.com
 
 ---
 
