@@ -126,11 +126,24 @@ I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, pa
 
 <br/>
 
-## 🐍 Contribution Activity
+## 🐍 My Contributions
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 <br/>
 
