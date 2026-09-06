@@ -1,79 +1,158 @@
-<!-- Banner -->
-<img src="Generating_Video_From_GIF.gif" width="100%" alt="Welcome Banner" />
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Namita Naik</h1>
-<h3 align="center">✨ Fullstack Developer | Tech Explorer | AI Enthusiast ✨</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:38BDF8&height=220&section=header&text=Hi%20👋,%20I'm%20Namita%20Naik&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20&%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%26+Data+Enthusiast;Problem+Solver;Building+•+Learning+•+Creating" alt="Typing SVG" />
+</a>
 
-🚀 About Me
+<p><i>Turning ideas into code and continuously learning through real-world projects.</i></p>
 
-Hi there! I'm Namita Naik, a passionate developer and creative problem solver.
+<br/>
 
-🌱 Currently learning: Tailwind CSS, Three.js, React.js, and AI-powered Web Apps
+<a href="https://namita-naik-3d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://www.linkedin.com/in/namita-naik-b154a2293/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://github.com/namitanaik07"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://leetcode.com/namita_naik_07"><img src="https://img.shields.io/badge/LeetCode-0A192F?style=for-the-badge&logo=leetcode&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://www.hackerrank.com/namitaanaik07"><img src="https://img.shields.io/badge/HackerRank-0A192F?style=for-the-badge&logo=hackerrank&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="mailto:namitaanaik07@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=112240" /></a>
 
-🤝 Open to collaborate on: Full-Stack Web Development, Creative UI/UX, and AI Projects
+</div>
 
-💬 Ask me about: React, Vue, GSAP, Semantic Search, and interactive web design
+<br/>
 
-🎯 Fun fact: I turn coffee ☕ into clean, dynamic code.
+## 👩‍💻 About Me
 
-📫 Reach me at: namitaanaik07@gmail.com
+I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, passionate about full-stack development and exploring AI & data. I enjoy solving problems through code and I'm always learning something new by building it.
 
----
+<br/>
 
-## 🌐 Connect with Me  
-<p align="center">
-  <a href="https://www.linkedin.com/in/namita-naik-b154a2293/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/namitaanaik07"><img src="https://img.shields.io/badge/-Hackerrank-darkgreen?logo=hackerrank&logoColor=white" /></a>
-  <a href="https://leetcode.com/namita_naik_07"><img src="https://img.shields.io/badge/-LeetCode-orange?logo=leetcode&logoColor=white" /></a>
-  <a href="mailto:namitaanaik07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?logo=gmail&logoColor=white" /></a>
-</p>
+## 🚀 Currently Exploring
 
----
+<div align="center">
 
-## 🛠️ Languages & Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,c,python,js,html,css,react,nodejs,express,mongodb,mysql,flutter,figma,gcp,opencv,powerbi,tableau" />
-</p>
+`Full-Stack Development` &nbsp;•&nbsp; `React.js` &nbsp;•&nbsp; `Node.js` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Java & DSA` &nbsp;•&nbsp; `AI / Data Analysis` &nbsp;•&nbsp; `Database Systems` &nbsp;•&nbsp; `IoT`
 
----
+</div>
 
-## 📊 GitHub Stats & Activity  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=namitanaik07&theme=radical&hide_border=true" alt="Streak Stats" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namitanaik07&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitanaik07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
 
----
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,python,c,mysql,js" />
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400px" alt="Coding Animation" />
-</p>
+<br/><br/>
 
----
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 
+<br/><br/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=namitanaik07&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
-</p>
+**Backend**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-<!-- <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namitanaik07&theme=radical" alt="Profile Summary" />
-</p> -->
+<br/><br/>
 
----
+**Databases**
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 
-## ✨ Visitor Count  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=namitanaik07&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
+<br/><br/>
 
----
+**Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" /> &nbsp; <img src="https://img.shields.io/badge/Jupyter-0A192F?style=flat-square&logo=jupyter&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Power_BI-0A192F?style=flat-square&logo=powerbi&logoColor=38BDF8" /> <img src="https://img.shields.io/badge/Tableau-0A192F?style=flat-square&logo=tableau&logoColor=38BDF8" />
+
+</div>
+
+<br/>
+
+## 💡 Developer Interests
+
+<table align="center">
+<tr>
+<td align="center" width="200">💻<br/><b>Full-Stack Development</b></td>
+<td align="center" width="200">🤖<br/><b>AI & Intelligent Applications</b></td>
+</tr>
+<tr>
+<td align="center" width="200">📊<br/><b>Data & Visualization</b></td>
+<td align="center" width="200">🧠<br/><b>DSA & Problem Solving</b></td>
+</tr>
+<tr>
+<td align="center" width="200">🌐<br/><b>Open Source</b></td>
+<td align="center" width="200">🔌<br/><b>IoT & Smart Systems</b></td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🏆 **Winner** — Web KOBO, AAKAR'26
+- 🇮🇳 **Top 20 Finalist** — Unisys Innovation Program 2026
+- 🥇 **Top 5** — Ladder1 Coding Challenge
+- 💻 **Rank 429** — CodeClash All India Coding Challenge
+- 🌐 **GSSOC 2025** Contributor
+- 🔥 **Hacktoberfest 2025** Super Contributor
+
+<br/>
+
+## 👑 Leadership
+
+**Vice President** — CORE, CSE Department, MITE
+&nbsp;•&nbsp;
+**Technical Head** — DEVStudio Full Stack Club, MITE
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=namitanaik07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&icon_color=60BDF8&text_color=94A3B8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namitanaik07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A192F&title_color=38BDF8&text_color=94A3B8" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=namitanaik07&theme=tokyonight&hide_border=true&background=0A192F&stroke=2563EB&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+
+## 🤝 Let's Connect
+
+<a href="https://namita-naik-3d-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://www.linkedin.com/in/namita-naik-b154a2293/"><img src="https://img.shields.io/badge/LinkedIn-0A192F?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="https://github.com/namitanaik07"><img src="https://img.shields.io/badge/GitHub-0A192F?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=112240" /></a>
+<a href="mailto:namitaanaik07@gmail.com"><img src="https://img.shields.io/badge/Email-0A192F?style=for-the-badge&logo=gmail&logoColor=38BDF8&labelColor=112240" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=namitanaik07&color=2563EB&style=flat-square&label=Profile+Views" />
+
+<br/><br/>
+
+<i>Building. Learning. Solving. Shipping. 🚀</i>
+<br/>
+<i>Let's connect and build something meaningful.</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:2563EB,100:0A192F&height=100&section=footer" width="100%"/>
