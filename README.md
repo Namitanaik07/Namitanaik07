@@ -4,9 +4,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:38BDF8&height=120&section=header&text=Hi%20👋,%20I'm%20Namita%20Naik&fontSize=32&fontColor=F8FAFC&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20|%20AI%20&%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=75&descSize=15" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%26+Data+Enthusiast;Problem+Solver;Building+•+Learning+•+Creating" alt="Typing SVG" />
-</a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B%2C+I'm+Namita+Naik;Computer+Science+%26+Engineering+Student;Full-Stack+Developer+%7C+AI+%26+Data+Enthusiast;Java+%26+DSA+Learner;Building+Ideas+into+Reality+%F0%9F%9A%80"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <p><i>Turning ideas into code and continuously learning through real-world projects.</i></p>
 
