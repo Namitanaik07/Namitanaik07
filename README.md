@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:38BDF8&height=220&section=header&text=Hi%20👋,%20I'm%20Namita%20Naik&fontSize=42&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20AI%20&%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=58&descSize=18" width="100%"/>
+<img src="assets/mascot-banner.svg" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A192F,50:2563EB,100:38BDF8&height=120&section=header&text=Hi%20👋,%20I'm%20Namita%20Naik&fontSize=32&fontColor=F8FAFC&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20|%20AI%20&%20Data%20Enthusiast%20|%20Problem%20Solver&descAlignY=75&descSize=15" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=Computer+Science+%26+Engineering+Student;Full-Stack+Developer;AI+%26+Data+Enthusiast;Problem+Solver;Building+•+Learning+•+Creating" alt="Typing SVG" />
@@ -126,24 +128,11 @@ I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, pa
 
 <br/>
 
-## 🐍 My Contributions
+## 🐍 Contribution Activity
 
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
-    />
-    <img
-      alt="GitHub Contribution Snake"
-      src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
-    />
-  </picture>
-</p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
 
 <br/>
 
