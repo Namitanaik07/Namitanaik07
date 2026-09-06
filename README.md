@@ -96,24 +96,24 @@ I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, pa
 
 ## 🏆 Achievements
 
-- 🏆 **Winner** — Web KOBO, AAKAR'26
-- 🇮🇳 **Top 20 Finalist** — Unisys Innovation Program 2026
-- 🥇 **Top 5** — Ladder1 Coding Challenge
-- 💻 **Rank 429** — CodeClash All India Coding Challenge
-- 🌐 **GSSOC 2025** Contributor
-- 🔥 **Hacktoberfest 2025** Super Contributor
+-  **Winner** - Web KOBO, AAKAR'26
+-  **Top 20 Finalist** - Unisys Innovation Program 2026
+-  **Top 5** - Ladder1 Coding Challenge
+-  **Rank 429** - CodeClash All India Coding Challenge
+-  **GSSOC 2025** Contributor
+-  **Hacktoberfest 2025** Super Contributor
 
 <br/>
 
-## 👑 Leadership
+## Leadership
 
-**Vice President** — CORE, CSE Department, MITE
+**Vice President** - CORE, CSE Department, MITE
 &nbsp;•&nbsp;
-**Technical Head** — DEVStudio Full Stack Club, MITE
+**Technical Head** - DEVStudio Full Stack Club, MITE
 
 <br/>
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -130,9 +130,24 @@ I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, pa
 
 ## 🐍 Contribution Activity
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
+## 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/namitanaik07/namitanaik07/output/github-snake.svg"
+    />
+  </picture>
+</p>
 
 <br/>
 
