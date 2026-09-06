@@ -129,9 +129,6 @@ I'm a Computer Science & Engineering student at **MITE**, graduating in 2027, pa
 <br/>
 
 ## 🐍 Contribution Activity
-
-## 🐍 My Contributions
-
 <p align="center">
   <picture>
     <source
